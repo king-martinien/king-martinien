@@ -1,6 +1,6 @@
 # 👋 Hi there
 # 💫 About Me:
-I'm Martinien FOKOUE, Web & Mobile Developer.<br>🌱 Currently, learning building mobile apps with Flutter & Dart 💙.<br>
+I'm Martinien FOKOUE, Web & Mobile Developer.<br>
 
 ### Languages Stats
 <a href="https://github.com/king-martinien">
