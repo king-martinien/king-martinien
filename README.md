@@ -1,5 +1,4 @@
 # 👋 Hi there
-# 💫 About Me:
 I'm Martinien FOKOUE, Web & Mobile Developer.<br>
 
 ### Languages Stats
